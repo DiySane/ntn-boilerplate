@@ -17,7 +17,7 @@
   "dependencies": {
     "@nuxt/content": "^1.14.0",
     "gsap": "^3.7.1",
-    "nuxt": "^2.15.7"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "@nuxtjs/color-mode": "^2.1.1",
@@ -27,7 +27,7 @@
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.1",
-    "netlify-cli": "^6.0.8",
+    "netlify-cli": "^6.7.1",
     "nuxt-purgecss": "^1.0.0",
     "postcss": "^8.3.6",
     "postcss-easing-gradients": "^3.0.1",
